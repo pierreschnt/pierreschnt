@@ -1,16 +1,13 @@
-## Hi there 👋
+## About me:
+I'm an econ graduate interested in how economic activity, the environment, and space interact.
 
-<!--
-**pierreschnt/pierreschnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Research interests
+- Environmental & energy economics  
+- Spatial and panel data methods  
+- Climate policy & emissions
 
-Here are some ideas to get you started:
+### What I work with
+- R, Stata, a bit of Python  
+- Panel data, spatial econometrics  
+- Large administrative and registry datasets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
