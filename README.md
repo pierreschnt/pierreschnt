@@ -2,7 +2,7 @@
 I'm an econ graduate interested in how economic activity, the environment, and space interact.
 
 ### Research interests
-- Environmental & energy economics  
+- Environmental, natural resource & energy economics  
 - Spatial and panel data methods  
 - Climate policy & emissions
 
